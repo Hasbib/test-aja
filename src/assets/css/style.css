@@ -31,3 +31,8 @@
   --headingFont: 'Montserrat', sans-serif;
   --box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
+
+
+.footer{
+  margin-bottom: 10px;
+}
