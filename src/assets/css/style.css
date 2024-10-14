@@ -1,0 +1,33 @@
+/* Sementera start*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+body {
+  background: #f7f7f8;
+  font-family: 'Poppins', sans-serif;
+  overflow-x: hidden;
+}
+footer .row {
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
+  width: 100vw;
+}
+/* Sementera end*/
+
+/*==================================
+      GLOBAL CSS START
+  ==================================*/
+:root {
+  --colorHijau: #06a73b;
+  --colorPrimary: #001aff;
+  --colorBlue: #4582ff;
+  --colorGreen: #00d6d3;
+  --colorBlack: #0f2239;
+  --paraColor: #636363;
+  --ratingColor: #f1cc38;
+  --colorWhite: #ffffff;
+  --colorUngu: #1e0342;
+  --colorBiru: #f4f7fe;
+  --paraFont: 'Rubik', sans-serif;
+  --headingFont: 'Montserrat', sans-serif;
+  --box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
