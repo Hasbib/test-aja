@@ -7,6 +7,24 @@ import FooterLayout from '@/layout/FooterLayout.vue';
     <NavbarLayout />
 
     <h1>Halaman Index</h1>
+    <h1>Halaman Index</h1>
+    <h1>Halaman Index</h1>
+    <h1>Halaman Index</h1>
+    <h1>Halaman Index</h1>
+    <h1>Halaman Index</h1>
+    <h1>Halaman Index</h1>
+    <h1>Halaman Index</h1>
+    <h1>Halaman Index</h1>
+    <h1>Halaman Index</h1>
+    <h1>Halaman Index</h1>
+    <h1>Halaman Index</h1>
+    <h1>Halaman Index</h1>
+    <h1>Halaman Index</h1>
+    <h1>Halaman Index</h1>
+    <h1>Halaman Index</h1>
+    <h1>Halaman Index</h1>
+    <h1>Halaman Index</h1>
+    <h1>Halaman Index</h1>
 
     <FooterLayout />
 </template>
